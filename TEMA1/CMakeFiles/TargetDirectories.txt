@@ -1,0 +1,4 @@
+/Users/admin/Desktop/PAOO/PAOO-TEME/PAOO-Teme/TEMA1/CMakeFiles/tema_lib.dir
+/Users/admin/Desktop/PAOO/PAOO-TEME/PAOO-Teme/TEMA1/CMakeFiles/tema3.dir
+/Users/admin/Desktop/PAOO/PAOO-TEME/PAOO-Teme/TEMA1/CMakeFiles/edit_cache.dir
+/Users/admin/Desktop/PAOO/PAOO-TEME/PAOO-Teme/TEMA1/CMakeFiles/rebuild_cache.dir

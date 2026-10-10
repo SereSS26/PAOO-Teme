@@ -1,0 +1,4 @@
+/Users/admin/Desktop/PAOO/LAB3/build/CMakeFiles/tema_lib.dir
+/Users/admin/Desktop/PAOO/LAB3/build/CMakeFiles/tema3.dir
+/Users/admin/Desktop/PAOO/LAB3/build/CMakeFiles/edit_cache.dir
+/Users/admin/Desktop/PAOO/LAB3/build/CMakeFiles/rebuild_cache.dir

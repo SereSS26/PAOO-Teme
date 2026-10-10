@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libtema_lib.a CMakeFiles/tema_lib.dir/src/contor_heap.cpp.o CMakeFiles/tema_lib.dir/src/student.cpp.o CMakeFiles/tema_lib.dir/src/exemple_gresite.cpp.o CMakeFiles/tema_lib.dir/src/demo.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libtema_lib.a
