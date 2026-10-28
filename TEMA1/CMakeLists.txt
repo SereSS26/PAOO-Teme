@@ -3,9 +3,6 @@
 cmake_minimum_required(VERSION 3.10)
 
 # Project name
-# Aici poti modifica numele proiectului, dar nu este obligatoriu
-# Daca ai ajuns sa te uiti si aici chiar ma bucur, insemna ca tu chiar vrei sa intelegi
-# Viata e foarte grea, mai ales cand esti prost ca mine, dar incerc in fiecare zi sa devin mai bun 
 project(tema3 LANGUAGES CXX)
 
 # Specify the required C++ standard (move constructor-ul exista de la C++11)

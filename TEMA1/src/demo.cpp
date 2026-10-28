@@ -8,9 +8,7 @@
 #include <vector>
 
 namespace tema {
-
 namespace {
-
 //Functii ajutatoare ca sa fie afisarea mai wow
 void titlu(const char* text)
 {
@@ -20,17 +18,14 @@ void pas(const char* cod)
 {
     std::cout << "  >> " << cod << "\n";
 }
-
 void explica(const char* text)
 {
     std::cout << "  => " << text << "\n";
 }
-
 const char* rezultat(bool acceptat)
 {
     return acceptat ? "acceptat" : "RESPINS";
 }
-
 // Clase ajutatoare pentru lista de initializare
 // Eticheta este un membru al clasei MaterieAtribuireInCorp si MaterieListaInitializare
 class Eticheta
@@ -55,11 +50,9 @@ public:
         text_ = text;
         return *this;
     }
-
 private:
     std::string text_;
 };
-
 // Clase care demonstreaza diferenta intre initializare in lista si atribuire in corp
 class MaterieAtribuireInCorp
 {
@@ -81,18 +74,15 @@ public:
         : titlu_(titlu)     // o singura operatie: construire directa
     {
     }
-
 private:
     Eticheta titlu_;
 };
-
 // Functie care primeste un Student prin valoare (se apeleaza copy constructor-ul)
 void raportPrinValoare(Student s)
 {
     std::cout << "    (in functie) ";
     s.afiseaza();
 }
-
 } // namespace
 
 // Demo1 pentru incapsulare
